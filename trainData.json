@@ -1,0 +1,19 @@
+{"intents": [
+    {"tag": "Ovulation",
+     "patterns": ["Ovulation pain - naam toh suna hoga?", "Ovulation pain?" ],
+     "responses": ["“What’s this weird stomach pain? I’m not even on my period!” \n If this is something you’ve found yourself thinking, you’ve come to the right place. No, that sudden pain in between your cycle isn’t your uterus trying to get revenge on you. It’s most likely ovulation pain - something that a lot of menstruators go through but don’t fully understand. \n There’s even a fancy German word for it - Mittelschmerz - meaning “middle pain”. What would it be called in your regional language? \n Unexpected pain in between your cycle can definitely be scary and annoying – but it’s more common than you would think and can be managed. Think of it as your body’s not-so-friendly way of reminding you that everything is working the way it should! "]
+    },
+    {"tag": "causing",
+     "patterns": ["What’s causing this?", "causing?" ],
+     "responses": ["Ovulation comes on during the ovulation phase of the menstrual cycle, roughly 14 days before your period starts. It is usually short-lived and does not last for more than 48 hours. \n Let’s understand what the ovulation phase is, and why you may have pain during ovulation.\n During the ovulation phase, an egg is released from one of your ovaries. From here, the egg travels along the fallopian tube (think of it as an egg-escalator) to the uterus.\n The egg grows inside a follicle - a little case that’s filled with fluid. For the egg to be released, it has to break out of the follicle. The egg popping out of the follicle and the follicle stretching and breaking are what cause ovulation pain. \n The pain is usually described as sharp but mild. You may feel it mostly around the lower abdomen, similar to period pain. The pain is usually on one side, depending on which ovary releases the egg during a cycle - meaning, if you have pain on the right side, that means the egg is being released from the right ovary. It can also start on one side and then move to the other during your next cycle (source). \n Like we’ve said before, think of it as your body’s way of very loudly telling you that your ovaries are doing their job! It can be useful to know when you’re ovulating if you’re trying to get pregnant. The ovulatory phase is when you are most fertile, leading to higher chances of pregnancy (source)."]
+    },
+    {"tag": "common",
+     "patterns": ["Is this common?", "common?" ],
+     "responses": ["Researchers have found that around 40% of menstruators experience ovulation pain (source). Although there isn’t much data on how common it is among Indians and South Asians, it’s clear that this isn’t an uncommon phenomenon among menstruators around the world."]
+    },
+    {"tag": "manage",
+     "patterns": ["What you can do to manage ovulation pain?", "manage ovulation pain?"],
+     "responses": ["Ovulation pain can generally be managed at home. Try painkillers like mefenamic acid (sold under the brand name Meftal) that are sold at chemists to manage your pain if you think you need it. \n It helps to keep note of your pain and other symptoms and check if it happens around ovulation (remember – roughly 14 days before your period). Here are some other symptoms that you may experience around ovulation:\n 1-Light bleeding or spotting\n 2- Bloating \n 3-Higher libido \n 4- Better mood \n 5-Changes in your appetite - your appetite may decrease around ovulation \n You can write a little note in your diary or on the Notes app on your phone. This is a great way to keep track of your cycle, and it also feels great to take control of your health and wellness!", "Our hours are 9am-9pm every day"]
+    }
+]
+}
